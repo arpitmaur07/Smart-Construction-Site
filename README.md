@@ -20,4 +20,4 @@
 
 <h1>Example:-</h1>
 
-<img align="center" height="200px" width="200px" src="Screenshot 2023-04-09 154743.jpg" alt="demo image">
+<div align="center"><img  height="400px" width="450px" src="Screenshot 2023-04-09 154743.jpg" alt="demo image"></div>
